@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to Witold's GitHub 👋
 
-<!--
-**JaWitold/JaWitold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I'm a student at Wrocław University of Science and Technology, focusing on Algorithms in Computer Science. Passionate about problem-solving and innovation, I'm always looking for new challenges and collaborations.
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Cloud Computing: Exploring the vast possibilities of the cloud to scale applications.
+- Software Engineering: Diving deep into cybersecurity to build secure and reliable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect
+Reach out to me for collaborations or just a chat about tech!
+- 📧 Email: [witold.karas00@gmail.com](mailto:witold.karas00@gmail.com)
+- 🌐 LinkedIn: [here](https://www.linkedin.com/in/jawitold/)
+
+
+<!-- Add any additional widgets like contribution graphs etc. -->
+
+## 📍 Based in Poland
+
+<!-- Customize this template with links to your projects, badges, or any additional information you'd like to include. -->
