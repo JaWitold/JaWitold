@@ -1,21 +1,35 @@
-# Welcome to Witold's GitHub 👋
+# Hi there, I'm Witold Karaś 👋
 
-## 🎓 About Me
-I'm a student at Wrocław University of Science and Technology, focusing on Algorithms in Computer Science. Passionate about problem-solving and innovation, I'm always looking for new challenges and collaborations.
+### Senior Software Engineer | System Architect | Cryptography Researcher
 
-## 🌱 I’m currently learning
-- Applied blue team operations, including SIEM technology, memory forensics and more.
-- Currently exploring machine learning domain in enhancing security features in neural network training process.
-- Software Engineering: Diving deep into cybersecurity to build secure and reliable systems.
+<a href="https://www.linkedin.com/in/witold-karas/">
+  <img align="left" alt="Witold Karaś | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:witold.karas00@gmail.com">
+  <img align="left" alt="Witold Karaś | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-## 🤝 Let's Connect
-Reach out to me for collaborations or just a chat about tech!
-- 📧 Email: [witold.karas00@gmail.com](mailto:witold.karas00@gmail.com)
-- 🌐 LinkedIn: [here](https://www.linkedin.com/in/jawitold/)
+<br />
+<br />
 
+I'm a Senior Software Engineer based in Wrocław, Poland, with a passion for building scalable, secure, and high-performance backend systems. With a strong foundation in the **PHP/Symfony** ecosystem, my true focus is on solid **system architecture**, migrating legacy systems to modern **microservice-based solutions**, and writing clean, maintainable code.
 
-<!-- Add any additional widgets like contribution graphs etc. -->
+My professional experience is complemented by a deep academic background in computer science. I am currently pursuing a **Ph.D. in Applied Cryptography**, which provides me with a unique and security-first perspective on software engineering.
 
-## 📍 Based in Poland
+---
 
-<!-- Customize this template with links to your projects, badges, or any additional information you'd like to include. -->
+### 🚀 What I'm Currently Focused On
+
+* **Architecting and leading** the development of critical backend services for high-traffic e-commerce platforms.
+* **Advancing my Ph.D. research** in applied cryptography, with a focus on extending the concepts of ring signatures.
+* **Mentoring** and fostering a culture of technical excellence and best practices within my team.
+* **Optimizing CI/CD pipelines** to improve development velocity and deployment reliability.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaWitold&show_icons=true&hide_border=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaWitold&layout=compact&hide_border=true&theme=dracula" />
+</p>
