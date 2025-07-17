@@ -2,16 +2,6 @@
 
 ### Senior Software Engineer | System Architect | Cryptography Researcher
 
-<a href="https://www.linkedin.com/in/witold-karas/">
-  <img align="left" alt="Witold Karaś | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:witold.karas00@gmail.com">
-  <img align="left" alt="Witold Karaś | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br />
-<br />
-
 I'm a Senior Software Engineer based in Wrocław, Poland, with a passion for building scalable, secure, and high-performance backend systems. With a strong foundation in the **PHP/Symfony** ecosystem, my true focus is on solid **system architecture**, migrating legacy systems to modern **microservice-based solutions**, and writing clean, maintainable code.
 
 My professional experience is complemented by a deep academic background in computer science. I am currently pursuing a **Ph.D. in Applied Cryptography**, which provides me with a unique and security-first perspective on software engineering.
