@@ -17,9 +17,10 @@ My professional experience is complemented by a deep academic background in comp
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaWitold/jaWitold/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaWitold/jaWitold/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jaWitold/jaWitold/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaWitold&show_icons=true&hide_border=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaWitold&layout=compact&hide_border=true&theme=dracula" />
-</p>
